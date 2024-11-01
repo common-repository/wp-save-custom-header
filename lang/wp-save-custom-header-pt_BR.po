@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-save-custom-header\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-25 18:11-0300\n"
+"PO-Revision-Date: 2011-03-25 18:18-0300\n"
+"Last-Translator: Fernando Lopes <contato@fernandolopes.com.br>\n"
+"Language-Team: Fernando Lopes <contato@fernandolopes.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wp-save-custom-header.php:200
+#@ wp-save-custom-header
+msgid "Your current theme does not support Custom Headers"
+msgstr "Seu tema atual n&atilde;o oferece suporte a Cabe&ccedil;alhos Personalizados"
+
+#: wp-save-custom-header.php:205
+#@ wp-save-custom-header
+msgid "Your current theme does not support Custom Header Uploads"
+msgstr "Seu tema atual n&atilde;o oferece suporte a Envio de Cabe&ccedil;alhos Personalizados"
+
+#: wp-save-custom-header.php:210
+#@ wp-save-custom-header
+msgid "Your current theme does not have a \"/images/headers\" folder. Please create that folder and make it writeable."
+msgstr "Seu tema atual n&atilde;o tem a pasta  \"/images/headers\". Por favor, crie esta pasta e a torne grav&aacute;vel."
+
+#: wp-save-custom-header.php:287
+#@ wp-save-custom-header
+msgid "Please make the \"/images/headers\" folder of your theme writable!"
+msgstr "Por favor torne a pasta \"/images/headers\" do seu tema grav&aacute;vel!"
+
+#: obenland-wp-plugins.php:84
+#@ default
+msgid "Donate"
+msgstr ""
+
+#: wp-save-custom-header.php:195
+#@ wp-save-custom-header
+msgid "This plugin requires WordPress version 3.0 or later."
+msgstr "Este plugin requer WordPress vers&atilde;o 3.0 ou posterior."
+

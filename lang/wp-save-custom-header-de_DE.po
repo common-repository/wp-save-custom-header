@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Custom Header v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-02-02 13:03+0000\n"
+"Last-Translator: admin <obenland@gmx.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wp-save-custom-header.php:214
+#@ wp-save-custom-header
+msgid "Your current theme does not support Custom Headers"
+msgstr "Dein aktuelles Theme unterst&uuml;tzt Custom Headers (Kopfzeile) nicht."
+
+#: wp-save-custom-header.php:219
+#@ wp-save-custom-header
+msgid "Your current theme does not support Custom Header Uploads"
+msgstr "Dein aktuelles Theme unterst&uuml;tzt das Holchaden von Custom Headers (Kopfzeile) nicht."
+
+#: obenland-wp-plugins.php:123
+#@ wp-save-custom-header
+msgid "Donate"
+msgstr "Spenden"
+
+#. translators: plugin header field 'Name'
+#: wp-save-custom-header.php:0
+#@ wp-save-custom-header
+msgid "WP Save Custom Header"
+msgstr "WP Save Custom Header"
+
+#. translators: plugin header field 'Description'
+#: wp-save-custom-header.php:0
+#@ wp-save-custom-header
+msgid "Makes it possible to save uploaded custom headers and make them part of the default selection."
+msgstr "Erm&ouml;glicht es, benutzerdefinierte Kopfzeilen hoch zu laden und speichert sie als Teil der Standard-Auswahl."
+
+#. translators: plugin header field 'Author'
+#: wp-save-custom-header.php:0
+#@ wp-save-custom-header
+msgid "Konstantin Obenland"
+msgstr "Konstantin Obenland"
+
+#: wp-save-custom-header.php:209
+#@ wp-save-custom-header
+msgid "This plugin requires WordPress version 3.0 or later."
+msgstr "Dieses Plugin ben&ouml;tigt WordPress Version 3.0 oder h&ouml;her."
+
+#. translators: plugin header field 'PluginURI'
+#: wp-save-custom-header.php:0
+#@ wp-save-custom-header
+msgid "http://www.obenlands.de/en/portfolio/wp-save-custom-header/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-save-custom-header"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: wp-save-custom-header.php:0
+#@ wp-save-custom-header
+msgid "http://www.obenlands.de/en/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-save-custom-header"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: wp-save-custom-header.php:0
+#@ wp-save-custom-header
+msgid "1.5"
+msgstr ""
+
+#: wp-save-custom-header.php:326
+#, php-format
+#@ wp-save-custom-header
+msgid "Please make the <code>%s</code> folder of your theme writable!"
+msgstr "Bitte mache den <code>%s</code> Ordner in deinem Theme beschreibbar!"
+
+#: wp-save-custom-header.php:675
+#@ wp-save-custom-header
+msgid "Store header images in this template folder"
+msgstr "Kopfzeilen in folgendem Templateordner speichern"
+
+#: wp-save-custom-header.php:703
+#@ wp-save-custom-header
+msgid "Default is <code>images/headers</code>"
+msgstr "Grundeinstellung ist <code>images/headers</code>"
+
+#: wp-save-custom-header.php:729
+#@ wp-save-custom-header
+msgid "Header images should not be stored in the root directory of your theme. Please specify a folder and try again."
+msgstr "Kopfzeilen sollten nicht im Root-Verzeichnis des Themes gespeichert werden. Bitte gib einen anderen Ordner an und versuche es erneut."
+
+#: wp-save-custom-header.php:738
+#@ wp-save-custom-header
+msgid "The specified folder does not exist! Please create the folder, make it writable and try again."
+msgstr "Der angegebene Ordner existiert nicht! Bitte erstelle den Ordner, mache ihn beschreibbar und versuche es erneut."
+
+#: wp-save-custom-header.php:747
+#@ wp-save-custom-header
+msgid "The specified folder is not writable! Please make it writable and try again."
+msgstr "Der angegebene Ordner ist nicht beschreibbar! Bitte mache ihn beschreibbar und versuche es erneut."
+
